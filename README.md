@@ -23,11 +23,9 @@ Stuff I like outside of computers:
 Here's a Kaiju cat for you:
 
 ```
-
  _._     _,-'""`-._
 (,-.`._,'(       |\`-/|
     `-.-' \ )-`( , o o)
           `-    \`_`"'-
 ｐｕｒｒ　ｍｏｎｓｔｅｒ　怪獣猫
-
 ```
