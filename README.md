@@ -1,6 +1,6 @@
 Hi I'm Eva Pace, here's a little bit about me:
 
-- Currently working at [Igalia](https://igalia.com) in [GStreamer](https://gstreamer.freedesktop.org)
+- Currently working at [Igalia](https://igalia.com) contributing to [GStreamer](https://gstreamer.freedesktop.org)
 - Studying Computer Science fundamentals at [Bradfield](https://bradfieldcs.com)
 
 My CS interests:
