@@ -1,7 +1,7 @@
 Hi I'm Eva Pace, here's a little bit about me:
 
-- Currently working at [Igalia](https://igalia.com) contributing to [GStreamer](https://gstreamer.freedesktop.org)
-- Studying Computer Science fundamentals at [Bradfield](https://bradfieldcs.com)
+- Currently looking for a new opportunity 👩‍💼
+- Studying these recently: Algorithms & Data Structures, Zig, Godot and OpenGL 📚
 
 My CS interests:
 
