@@ -1,7 +1,7 @@
 Hi I'm Eva Pace, here's a little bit about me:
 
-- Currently looking for a new opportunity 👩‍💼
-- Studying these recently: Algorithms & Data Structures and [LÖVE](https://love2d.org/) 📚
+- Working with Rust @iSeatz ✈️
+- Studying game development using https://raylib.com 📚
 
 My CS interests:
 
