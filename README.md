@@ -1,15 +1,15 @@
 Hi I'm Eva Pace, here's a little bit about me:
 
-- Working with Rust @iSeatz ✈️
-- Studying game development using https://raylib.com 📚
+- Working with Rust [@iSeatz](https://iseatz.com) ✈️
+- Building graphical applications in my free time (Desktop apps, games, etc) 🖌️
 
 My CS interests:
 
 - Rust 🦀
 - C ⚒
 - Systems / Low-level Programming 🖥️
-- Compilers 🐉
 - Computer Graphics 🎨
+- Compilers 🐉
 
 Stuff I like outside of computers:
 
