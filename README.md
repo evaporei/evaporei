@@ -1,7 +1,7 @@
 Hi I'm Eva Pace, here's a little bit about me:
 
-- Working with Rust [@iSeatz](https://iseatz.com) ✈️
-- Building graphical applications in my free time (Desktop apps, games, etc) 🖌️
+- Building tourism infrastructure (back-end web services) [@iSeatz](https://iseatz.com) ✈️
+- I make graphical applications in my free time (Desktop apps, games, etc) 🖌️
 
 My CS interests:
 
