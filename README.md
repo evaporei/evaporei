@@ -1,7 +1,7 @@
 Hi I'm Eva Pace, here's a little bit about me:
 
 - Building tourism infrastructure (back-end web services) [@iSeatz](https://iseatz.com) ✈️
-- I make graphical applications in my free time (Desktop apps, games, etc) 🖌️
+- Currently learning graphics programming with OpenGL 🖌️
 
 My CS interests:
 
